@@ -11,6 +11,9 @@
 
 - http://nav.xiejiahe.com/#/app
 
+## github相关教程
+- https://marklodato.github.io/visual-git-guide/index-zh-cn.html
+
 
 ##ChangeLog
 - 190329 YM renewed
