@@ -4,6 +4,7 @@
 
 - Google 创意实验室 https://github.com/googlecreativelab 
 - https://experiments.withgoogle.com/experiments 
+- https://workshop.chromeexperiments.com/
 - https://www.hackster.io/ 
 - https://www.producthunt.com/ 
 - [learn anything](https://learn-anything.xyz/)
@@ -25,6 +26,11 @@
 
 ## 工具类
 - [自动生成公司品牌toolkit](https://zebranding.com/)
+https://demo.marpi.pl/biomes/
+https://epok.tech/work/tendrils/
+https://doseofted.com/project/aesthetic/app.htm 生成各种格子
+https://jasfar.github.io/wildflowers/   wild flower
+http://edankwan.com/experiments/the-spirit/
 
 ## 资源类
 - [mockup 图库](https://mockuuups.studio/collection#category23152964)
