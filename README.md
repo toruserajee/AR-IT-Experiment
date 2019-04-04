@@ -8,6 +8,7 @@
 - https://www.producthunt.com/ 
 - [learn anything](https://learn-anything.xyz/)
 - [阮一峰每周分享摘录资源总结](https://wanmaoor.github.io/ryfWeekly/)
+- [湾区日报](https://wanqu.co/) 
 
 ## 相关网站导航
 
