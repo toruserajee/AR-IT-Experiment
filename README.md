@@ -11,6 +11,7 @@
 - [learn anything](https://learn-anything.xyz/)
 - [阮一峰每周分享摘录资源总结](https://wanmaoor.github.io/ryfWeekly/)
 - [湾区日报](https://wanqu.co/) 
+- https://www.instructables.com/featured/ 
 
 ## 相关网站导航
 
