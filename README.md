@@ -7,6 +7,7 @@
 - https://workshop.chromeexperiments.com/
 - https://www.hackster.io/ 
 - https://www.producthunt.com/ 
+- https://www.sparkfun.com/
 - [learn anything](https://learn-anything.xyz/)
 - [阮一峰每周分享摘录资源总结](https://wanmaoor.github.io/ryfWeekly/)
 - [湾区日报](https://wanqu.co/) 
