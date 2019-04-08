@@ -9,6 +9,10 @@ The Future Interfaces Group (FIG) is an interdisciplinary research laboratory wi
 ## research materia
 https://people.eecs.berkeley.edu/~bjoern/  
 
+## Useful website
+
+- https://www.bareconductive.com/
+
 
 ## ChangeLog
 190408 YM create 
