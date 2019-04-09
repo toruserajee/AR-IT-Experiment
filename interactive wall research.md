@@ -7,7 +7,8 @@ The Future Interfaces Group (FIG) is an interdisciplinary research laboratory wi
 - https://hcii.cmu.edu/news
 
 ## research materia
-https://people.eecs.berkeley.edu/~bjoern/  
+- https://people.eecs.berkeley.edu/~bjoern/  
+- https://www.floatbug.com/  中国夫妇博客
 
 ## 创客社区
 - https://www.quwj.com/ 趣无尽
