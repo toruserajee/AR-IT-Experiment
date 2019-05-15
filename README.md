@@ -33,7 +33,10 @@
 - https://doseofted.com/project/aesthetic/app.htm 生成各种格子
 - https://jasfar.github.io/wildflowers/   wild flower
 - http://edankwan.com/experiments/the-spirit/
+
+## 视频类
 - https://lightmv.cn/ 生成各种视频
+- https://2zimu.niucodata.com/ 自动生成字幕
 
 ## 资源类
 - [mockup 图库](https://mockuuups.studio/collection#category23152964)
