@@ -28,11 +28,12 @@
 
 ## 工具类
 - [自动生成公司品牌toolkit](https://zebranding.com/)
-https://demo.marpi.pl/biomes/
-https://epok.tech/work/tendrils/
-https://doseofted.com/project/aesthetic/app.htm 生成各种格子
-https://jasfar.github.io/wildflowers/   wild flower
-http://edankwan.com/experiments/the-spirit/
+- https://demo.marpi.pl/biomes/
+- https://epok.tech/work/tendrils/
+- https://doseofted.com/project/aesthetic/app.htm 生成各种格子
+- https://jasfar.github.io/wildflowers/   wild flower
+- http://edankwan.com/experiments/the-spirit/
+- https://lightmv.cn/ 生成各种视频
 
 ## 资源类
 - [mockup 图库](https://mockuuups.studio/collection#category23152964)
