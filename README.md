@@ -38,6 +38,7 @@
 - https://lightmv.cn/ 生成各种视频
 - https://2zimu.niucodata.com/ 自动生成字幕
 - http://www.videofk.com/ 视频在线解析下载
+- https://www.noxinfluencer.com youtube视频分析工具特别好。
 
 ## 资源类
 - [mockup 图库](https://mockuuups.studio/collection#category23152964)
