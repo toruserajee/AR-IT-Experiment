@@ -7,6 +7,8 @@ The Future Interfaces Group (FIG) is an interdisciplinary research laboratory wi
 - https://hcii.cmu.edu/news
 
 ## research materia
+-https://ideum.com/news/interactive-video-wall-build
+-https://www.osapublishing.org/DirectPDFAccess/EC3E5E00-90A8-19DE-12E5763EEC71EAA3_360456/oe-25-5-5341.pdf?da=1&id=360456&seq=0&mobile=no
 - https://people.eecs.berkeley.edu/~bjoern/  
 - https://www.floatbug.com/  中国夫妇博客
 - https://medium.com/mouth-watering-media/the-top-10-digital-interactive-display-walls-40b96066477c
