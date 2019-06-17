@@ -11,11 +11,14 @@ The Future Interfaces Group (FIG) is an interdisciplinary research laboratory wi
 - https://www.floatbug.com/  中国夫妇博客
 - https://medium.com/mouth-watering-media/the-top-10-digital-interactive-display-walls-40b96066477c
 
-## 创客社区
+## community 创客社区 
 - https://www.quwj.com/ 趣无尽
 - https://www.bareconductive.com/
 - http://mc.dfrobot.com.cn/portal.php 国内
 - https://www.arduino.cn/forum.php 
+
+## related interesting activity
+- https://www.digitalgraffiti.com/
 
 
 ## ChangeLog
